@@ -1,0 +1,8 @@
+Scorer,V1 cohort,n V1/WT,"ΔΔGpred
+(kcal mol−¹)","Conditional KD
+(nM)","Signed log₁₀
+error"
+FoldX,Selected five,5/5,−17.71,4.18 × 10⁻¹⁴,−12.90
+FoldX,Strict only,4/5,−12.96,1.27 × 10⁻¹⁰,−9.41
+EvoEF2,Selected five,5/5,−9.06,9.08 × 10⁻⁸,−6.56
+EvoEF2,Strict only,4/5,10.46,1.87 × 10⁷,7.75

@@ -1,0 +1,8 @@
+Stage,Recorded identity and settings
+ESMFold2,Python 3.12.3; esm 3.4.1; torch 2.11.0; transformers 4.57.6; biopython 1.88. Loops=20; sampling steps=100; diffusion samples=1; esmc_offload=true. Per-candidate seeds and checkpoint hashes retained; literal inference command not archived.
+IgFold parents,"Checkpoint families 1, 2, 3, 5, 1 in repair-group order. Original package version, command and weight hashes unavailable."
+ABodyBuilder3 parents,"pLDDT-loss/base-loss alternate over six repair groups. Base-loss has no pLDDT head. Original package version, command and weight hashes unavailable."
+Template parents,"FoldX BuildModel runs 1–5, each with variant-specific WT controls. Parent-generation executable identity and original RepairPDB/BuildModel arguments unavailable."
+Repair,OpenMM 8.6; CUDA mixed precision; 8 threads. amber14/protein.ff14SB.xml plus implicit/obc2.xml; pH 7; 25 specified disulfides.
+FoldX scoring,"Version 5.1 verified in scoring logs. AnalyseComplex; analyseComplexChains=HL,A; temperature=298.15; pH=7; water=IGNORE. repair_before_scoring=false."
+EvoEF2 scoring,"ComputeBinding; split=HL,A; Total binding-interaction energy, kcal mol−¹ [8]. Executable hash recorded; version/commit unavailable. repair_before_scoring=false."

@@ -1,0 +1,18 @@
+Route and variant,Scorer,Baseline,Omission range,"Sign retained
+in all 10"
+1N8Z + FoldX V1,FoldX,+1.48,+0.33 to +2.49,Yes
+1N8Z + FoldX V1,EvoEF2,+0.20,−0.23 to +1.00,No
+1N8Z + FoldX V55,FoldX,−0.30,−1.46 to +0.71,No
+1N8Z + FoldX V55,EvoEF2,+0.27,−0.85 to +1.42,No
+ESMFold2 V1,FoldX,−17.71,−22.17 to −12.96,Yes
+ESMFold2 V1,EvoEF2,−9.06,−21.54 to +10.46,No
+ESMFold2 V55,FoldX,−5.75,−13.99 to −0.71,Yes
+ESMFold2 V55,EvoEF2,+2.92,−8.77 to +10.75,No
+IgFold V1,FoldX,−1.36,−2.36 to +1.17,No
+IgFold V1,EvoEF2,−5.94,−7.94 to −4.59,Yes
+IgFold V55,FoldX,+1.54,+0.53 to +4.06,Yes
+IgFold V55,EvoEF2,+1.58,−0.20 to +4.95,No
+ABodyBuilder3 V1,FoldX,−1.65,−1.89 to −1.37,Yes
+ABodyBuilder3 V1,EvoEF2,−0.44,−0.82 to −0.12,Yes
+ABodyBuilder3 V55,FoldX,−2.13,−2.35 to −1.78,Yes
+ABodyBuilder3 V55,EvoEF2,−3.93,−4.17 to −3.65,Yes

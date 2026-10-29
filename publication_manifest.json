@@ -1,0 +1,332 @@
+{
+  "paper_id": "CSAI126",
+  "title": "Evaluating AI-Based Trastuzumab Affinity Workflows in a Two-Variant Case Study",
+  "publication_date": "2026-10-29",
+  "source_docx_sha256": "67375ac7ff7ab96519f6da77b04b363036b0c60ff54f47c395dd815bf85ed471",
+  "source_archive_sha256": "9da5847c1432b039da728b71e7ebc76bfb5e995c0a6532b7f30231d33885dd90",
+  "appendix_sections": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8"
+  ],
+  "tables": [
+    {
+      "table": "A1",
+      "caption": "Table A1. Sequence-defined constructs and BLI reference.",
+      "csv": "Table_A01.csv",
+      "data_rows": 3
+    },
+    {
+      "table": "A2",
+      "caption": "Table A2. Recorded software and model identity.",
+      "csv": "Table_A02.csv",
+      "data_rows": 7
+    },
+    {
+      "table": "A3",
+      "caption": "Table A3. Structural admission thresholds.",
+      "csv": "Table_A03.csv",
+      "data_rows": 10
+    },
+    {
+      "table": "A4",
+      "caption": "Table A4. Selected ESMFold2 model quality and confidence.",
+      "csv": "Table_A04.csv",
+      "data_rows": 15
+    },
+    {
+      "table": "A5",
+      "caption": "Table A5. QC ranges across all repaired outputs.",
+      "csv": "Table_A05.csv",
+      "data_rows": 9
+    },
+    {
+      "table": "A6",
+      "caption": "Table A6. 1N8Z + FoldX raw binding energies and inclusion.",
+      "csv": "Table_A06.csv",
+      "data_rows": 20
+    },
+    {
+      "table": "A7",
+      "caption": "Table A7. ESMFold2 raw binding energies and inclusion.",
+      "csv": "Table_A07.csv",
+      "data_rows": 15
+    },
+    {
+      "table": "A8",
+      "caption": "Table A8. IgFold raw binding energies and inclusion.",
+      "csv": "Table_A08.csv",
+      "data_rows": 15
+    },
+    {
+      "table": "A9",
+      "caption": "Table A9. ABodyBuilder3 raw binding energies and inclusion.",
+      "csv": "Table_A09.csv",
+      "data_rows": 18
+    },
+    {
+      "table": "A10",
+      "caption": "Table A10. FoldX construct energy summaries in kcal mol−1.",
+      "csv": "Table_A10.csv",
+      "data_rows": 12
+    },
+    {
+      "table": "A11",
+      "caption": "Table A11. EvoEF2 construct energy summaries in kcal mol−1.",
+      "csv": "Table_A11.csv",
+      "data_rows": 12
+    },
+    {
+      "table": "A12",
+      "caption": "Table A12. Group-mean binding changes and conditional KD comparison.",
+      "csv": "Table_A12.csv",
+      "data_rows": 16
+    },
+    {
+      "table": "A13",
+      "caption": "Table A13. Descriptive association between FoldX and EvoEF2 binding scores.",
+      "csv": "Table_A13.csv",
+      "data_rows": 16
+    },
+    {
+      "table": "A14",
+      "caption": "Table A14. ESMFold2 Variant 1 sensitivity to exploratory seed9.",
+      "csv": "Table_A14.csv",
+      "data_rows": 4
+    },
+    {
+      "table": "A15",
+      "caption": "Table A15. Heavy-chain RMSD summaries after fitting positions outside H96–110.",
+      "csv": "Table_A15.csv",
+      "data_rows": 12
+    },
+    {
+      "table": "A16",
+      "caption": "Table A16. Per-model heavy-chain RMSD values relative to 1N8Z.",
+      "csv": "Table_A16.csv",
+      "data_rows": 60
+    },
+    {
+      "table": "A17",
+      "caption": "Table A17. Single-conformer omission ranges in kcal mol−1.",
+      "csv": "Table_A17.csv",
+      "data_rows": 16
+    }
+  ],
+  "figures": [
+    {
+      "figure": "A1",
+      "file": "Figure_A1.png",
+      "pixel_sha256": "510761a89e948b12b374a566097353440a1d4e7cea87146c240463ca8897d4ee"
+    },
+    {
+      "figure": "A2",
+      "file": "Figure_A2.png",
+      "pixel_sha256": "f36af7f01a3135c1eb0dfd213d46b9fcffebc50061aca21427650f86d78ef1ad"
+    }
+  ],
+  "additional_data": [
+    {
+      "file": "Data_group_stats_full_precision.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/group_stats_full_precision.csv",
+      "sha256": "431ea76cf16f843b67efe90708560447b3bc80bcc61ebf0c54284c34794dab8f"
+    },
+    {
+      "file": "Data_contrasts_full_precision.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/contrasts_full_precision.csv",
+      "sha256": "340970c207ba8b4ce2643f12761881b72b2e410f6e2d8d2ed0869bc25d9f9ad2"
+    },
+    {
+      "file": "Data_single_deletions_full_precision.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/single_deletions_full_precision.csv",
+      "sha256": "49c12b0e49306cf35ab77261c3818194f8015a9d841b3cb281ee71bcea327cbb"
+    },
+    {
+      "file": "Data_deletion_summary_full_precision.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/deletion_summary_full_precision.csv",
+      "sha256": "c11c22a90dc1fbadf99b546406c614aebcca2817072b2c204a3d1faa48b30cce"
+    },
+    {
+      "file": "Data_full_order_deletions_full_precision.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/full_order_deletions_full_precision.csv",
+      "sha256": "2cd3113bea45ceb390e139c9c2ee273618c0fe5d64f5f35297d1ec599aa882bd"
+    },
+    {
+      "file": "Data_selected_samples_with_lineage.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/selected_samples_with_lineage.csv",
+      "sha256": "d43d3d9069e7970df724dda6ef24e0424ef544242878816c677d4fc8e4315637"
+    },
+    {
+      "file": "Data_precision_comparison.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Analysis/precision_comparison.csv",
+      "sha256": "05374f0263a204d414f9bb03ce3153b7c7b1c3c19fd30d8170ce4d1ece4d4c98"
+    },
+    {
+      "file": "Data_esmfold2_52_candidates.csv",
+      "source_member": "CSAI126_FullPrecision_Reproducibility/Audit/esmfold2_52_candidates.csv",
+      "sha256": "804002464d70cb1897e630c686627a9b0724433e924ae88db7da17cfd26cb683"
+    }
+  ],
+  "files": [
+    {
+      "path": "Appendix.md",
+      "bytes": 46938,
+      "sha256": "d83e651c2e653aa1fae2527013db7b01bb0cc7098f49df4502e17b5be5af6525"
+    },
+    {
+      "path": "CSAI126_Supplementary_Appendix.docx",
+      "bytes": 1159963,
+      "sha256": "38ce9a2d6fa589521db5bfccd9d553353eb2dae0c1002f79a8377e82e991bfb0"
+    },
+    {
+      "path": "CSAI126_Supplementary_Appendix.pdf",
+      "bytes": 1127996,
+      "sha256": "ec759c69472862b82f3ef63e159079b79192bc5c732996997313a62d9b67f79c"
+    },
+    {
+      "path": "Data_contrasts_full_precision.csv",
+      "bytes": 13205,
+      "sha256": "340970c207ba8b4ce2643f12761881b72b2e410f6e2d8d2ed0869bc25d9f9ad2"
+    },
+    {
+      "path": "Data_deletion_summary_full_precision.csv",
+      "bytes": 5346,
+      "sha256": "c11c22a90dc1fbadf99b546406c614aebcca2817072b2c204a3d1faa48b30cce"
+    },
+    {
+      "path": "Data_esmfold2_52_candidates.csv",
+      "bytes": 15691,
+      "sha256": "804002464d70cb1897e630c686627a9b0724433e924ae88db7da17cfd26cb683"
+    },
+    {
+      "path": "Data_full_order_deletions_full_precision.csv",
+      "bytes": 16882,
+      "sha256": "2cd3113bea45ceb390e139c9c2ee273618c0fe5d64f5f35297d1ec599aa882bd"
+    },
+    {
+      "path": "Data_group_stats_full_precision.csv",
+      "bytes": 7810,
+      "sha256": "431ea76cf16f843b67efe90708560447b3bc80bcc61ebf0c54284c34794dab8f"
+    },
+    {
+      "path": "Data_precision_comparison.csv",
+      "bytes": 4896,
+      "sha256": "05374f0263a204d414f9bb03ce3153b7c7b1c3c19fd30d8170ce4d1ece4d4c98"
+    },
+    {
+      "path": "Data_selected_samples_with_lineage.csv",
+      "bytes": 15149,
+      "sha256": "d43d3d9069e7970df724dda6ef24e0424ef544242878816c677d4fc8e4315637"
+    },
+    {
+      "path": "Data_single_deletions_full_precision.csv",
+      "bytes": 144694,
+      "sha256": "49c12b0e49306cf35ab77261c3818194f8015a9d841b3cb281ee71bcea327cbb"
+    },
+    {
+      "path": "Figure_A1.png",
+      "bytes": 195543,
+      "sha256": "17742217869eb429144e9ad78f6a000cf700d69bb53d2bdd0544956c6efea5f4"
+    },
+    {
+      "path": "Figure_A2.png",
+      "bytes": 856122,
+      "sha256": "27cd9ac1cac0149403f37cb6495714d344a0bced7ae7e25b64f068b4252c0e71"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3543,
+      "sha256": "ed2c32e67164cbd308d7e48c5631052bf7a94bf85ff31fdc78ed29c2da35d12d"
+    },
+    {
+      "path": "Table_A01.csv",
+      "bytes": 257,
+      "sha256": "31b55f3130ed51457eb26d321d948931c00e26a18601daf03c20f7a0c3910644"
+    },
+    {
+      "path": "Table_A02.csv",
+      "bytes": 1269,
+      "sha256": "4c9e624c5d66795e9f81222801307b2d556f64628ebe3a48bb4bf0ebe13475b3"
+    },
+    {
+      "path": "Table_A03.csv",
+      "bytes": 608,
+      "sha256": "8a72c837b2bc6c2f76c41497b1f65e5377888b35a4e5af173a3e4d22f9cefa2b"
+    },
+    {
+      "path": "Table_A04.csv",
+      "bytes": 704,
+      "sha256": "4242070763f93823c162df8d4378a9aa42ba3135e9c3141d588a44a746999af4"
+    },
+    {
+      "path": "Table_A05.csv",
+      "bytes": 526,
+      "sha256": "6a34154bdad92f0fb06038e98f702f89fa175ae9b266169954c9dbd021e420c2"
+    },
+    {
+      "path": "Table_A06.csv",
+      "bytes": 679,
+      "sha256": "b9c40c2a953cb94ad3ddbcc692a77156783ec1506e5fe516181ea05654af080e"
+    },
+    {
+      "path": "Table_A07.csv",
+      "bytes": 490,
+      "sha256": "fb11b39c4016ef4a9a6cc4776f424384140fdd2332bd411ff428fd1d8de56894"
+    },
+    {
+      "path": "Table_A08.csv",
+      "bytes": 529,
+      "sha256": "2f18c5bbbb617faf8fc9ab1da672a49265ad97f325cbda53c148631d76dbcf75"
+    },
+    {
+      "path": "Table_A09.csv",
+      "bytes": 622,
+      "sha256": "4b470fa03ba265abb2a7e7e39924d3971bd99277a0dd6caefc346126f852f731"
+    },
+    {
+      "path": "Table_A10.csv",
+      "bytes": 655,
+      "sha256": "3cd4fdbe6236236b93c1acaee89d27c87ef4a5635084a024598636ece95e0509"
+    },
+    {
+      "path": "Table_A11.csv",
+      "bytes": 660,
+      "sha256": "0d831f3fe08fa60c0183242c649f24424f5498054abefdb14e0f10c10b230924"
+    },
+    {
+      "path": "Table_A12.csv",
+      "bytes": 856,
+      "sha256": "f04f74fd72b52ee3dd3b8d719be80f20dac432299b114f9904c56a898aeea39c"
+    },
+    {
+      "path": "Table_A13.csv",
+      "bytes": 558,
+      "sha256": "c6f0491fbf1b1439987f8dd003c53c8c282dcd32759afb8555bc1a81aa6bef15"
+    },
+    {
+      "path": "Table_A14.csv",
+      "bytes": 330,
+      "sha256": "ff894128c1beb4c4a0810e0e86a3717140d831ce2c220f3dcebc5ddf02160510"
+    },
+    {
+      "path": "Table_A15.csv",
+      "bytes": 991,
+      "sha256": "44eadbe14dac3ab0971a828bf787333d39f8223b1c132b767187197a5b69b4e3"
+    },
+    {
+      "path": "Table_A16.csv",
+      "bytes": 2120,
+      "sha256": "fae3a2b248f1b2f57b0d3cf717a68f0678e631205f3052eadfe35dad84ccde28"
+    },
+    {
+      "path": "Table_A17.csv",
+      "bytes": 886,
+      "sha256": "7ad9a0723c5b3c72f64310a5eece056f6a2026cb401b7eb81cf5b7dec6780623"
+    }
+  ]
+}

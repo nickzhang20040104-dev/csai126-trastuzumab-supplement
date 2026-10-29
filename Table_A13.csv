@@ -1,0 +1,17 @@
+Structure route,Construct,n structures,Pearson r,Spearman ρ
+1N8Z + FoldX,All constructs,15,0.63,0.68
+1N8Z + FoldX,WT,5,0.85,0.90
+1N8Z + FoldX,V1,5,0.32,0.00
+1N8Z + FoldX,V55,5,0.66,0.90
+ESMFold2,All constructs,15,0.70,0.68
+ESMFold2,WT,5,0.75,0.70
+ESMFold2,V1,5,0.60,0.40
+ESMFold2,V55,5,0.98,0.90
+IgFold,All constructs,15,0.22,0.20
+IgFold,WT,5,0.70,0.70
+IgFold,V1,5,−0.36,0.00
+IgFold,V55,5,−0.19,−0.30
+ABodyBuilder3,All constructs,15,0.58,0.57
+ABodyBuilder3,WT,5,0.34,0.40
+ABodyBuilder3,V1,5,0.26,0.30
+ABodyBuilder3,V55,5,0.15,−0.10

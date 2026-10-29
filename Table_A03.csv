@@ -1,0 +1,11 @@
+Check,Strict bound,Exploratory bound
+Intraresidue C–C (Å),1.15–1.80,1.05–1.90
+Intraresidue C–N (Å),1.10–1.75,1.00–1.85
+Intraresidue C–O (Å),1.05–1.65,0.95–1.75
+Intraresidue C–S (Å),1.55–2.05,1.45–2.15
+Peptide C–N (Å),1.10–1.80,1.00–2.00
+Specified disulfide SG–SG (Å),1.70–3.10,Unchanged
+Severe nonbonded heavy-atom distance,No pair <1.2 Å,Unchanged
+Antibody–HER2 contacts,≥3 residue pairs within 5 Å,Unchanged
+Combined framework Cα RMSD,≤4 Å,Unchanged
+Sequence and coordinates,Exact coverage; required heavy atoms; finite coordinates,Unchanged

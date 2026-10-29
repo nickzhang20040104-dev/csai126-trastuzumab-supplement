@@ -1,0 +1,13 @@
+Structure route,Variant,n,Mean,Sample SD,Observed range
+1N8Z + FoldX,WT,5,−58.63,1.94,−60.37 to −55.43
+1N8Z + FoldX,V1,5,−58.42,1.18,−59.50 to −56.87
+1N8Z + FoldX,V55,5,−58.36,3.56,−62.95 to −53.86
+ESMFold2,WT,5,33.94,21.63,10.92 to 59.46
+ESMFold2,V1,5,24.87,48.21,−53.24 to 74.76
+ESMFold2,V55,5,36.86,31.13,5.51 to 83.61
+IgFold,WT,5,−44.37,4.75,−49.34 to −38.97
+IgFold,V1,5,−50.31,5.21,−55.09 to −42.31
+IgFold,V55,5,−42.78,8.55,−56.25 to −35.63
+ABodyBuilder3,WT,5,−63.19,0.69,−64.15 to −62.50
+ABodyBuilder3,V1,5,−63.63,1.25,−64.89 to −62.08
+ABodyBuilder3,V55,5,−67.13,0.88,−68.25 to −66.24
