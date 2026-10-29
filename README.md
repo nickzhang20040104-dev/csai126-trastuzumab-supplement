@@ -33,7 +33,7 @@ The eight `Data_*.csv` files are byte-identical copies of selected files from th
 
 ## Scope and limitations
 
-This is an appendix publication, not the full original evidence archive. The separate retained evidence archive contains selected coordinates, execution bundles, original program logs, predictor metadata and additional scripts. Those materials, historical drafts and machine-specific paths are not included here. Appendix A2 documents the unrecovered upstream artifacts; this repository does not establish an end-to-end rerun.
+The Supplementary Appendix does not include the original data package.
 
 The study is an exploratory two-variant case study. Conditional dissociation constants use an experimental WT anchor and an uncalibrated energy-to-free-energy assumption. Conformers are dependent computational samples, not independent experimental replicates. No new experimental result or model run was generated for this repository.
 
